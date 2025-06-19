@@ -6,7 +6,7 @@ This project predicts Myers-Briggs Type Indicator (MBTI) personality types from 
 Predict one of the 16 MBTI personality types (like INTJ, ENFP, ISTP, etc.) using natural language processing (NLP) and classification algorithms on users' text data.
 
 ## Dataset
-- The dataset used is: [MBTI 5000 Dataset on Kaggle](https://www.kaggle.com/datasets/datasnaek/mbti-type)
+- The dataset used is: [(MBTI) Myers-Briggs Personality Type Dataset from Kaggle](https://www.kaggle.com/datasets/datasnaek/mbti-type)
 - It contains approximately 8,600 posts labeled with 16 MBTI types.
 - Due to GitHub's file size limit, the full dataset is not stored in this repository.
 - You can download it directly from the Kaggle link above.
