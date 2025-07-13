@@ -24,7 +24,7 @@ Predict one of the 16 MBTI personality types (like INTJ, ENFP, ISTP, etc.) using
 - Google Colab
 - Pandas, NumPy
 - Scikit-learn
-- NLTK or spaCy (if used)
+- NLTK 
 - Matplotlib or Seaborn
 
 ## How to Run
